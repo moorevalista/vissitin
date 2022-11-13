@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "877862471836",
+    "project_id": "nakes-vissitin",
+    "storage_bucket": "nakes-vissitin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877862471836:android:5a2c19d4ca8fb1a0f2c559",
+        "android_client_info": {
+          "package_name": "com.vissitin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877862471836-iakmfru6ajikhudeks4f2bjk80no67pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2T3mylOMOVcBwCj9Iqk2rxv6dqgccpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877862471836-iakmfru6ajikhudeks4f2bjk80no67pv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877862471836-30qvm00i3eeo2ap83dn3ik0bskfbtmge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nakes.vissit.in"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
